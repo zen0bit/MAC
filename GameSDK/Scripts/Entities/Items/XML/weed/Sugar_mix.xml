@@ -1,0 +1,23 @@
+<item name="Sugar_mix" class="Item" category="any">
+
+	<params>
+		<param name="selectable" value="0"/>
+		<param name="mass" value="0.1"/>
+		<param name="stack_size" value="64" />
+		<param name="display_name" value="Sugar Mix"/>
+		<param name="description" value="a box of Sugar cookie Mix used for baking"/>
+	</params>
+
+	<geometry>
+		<thirdperson name="Objects/medcan/sbox/Sbox.cgf"/>
+	</geometry>
+
+	<storage>
+		<locations>
+			<location category="any"/>
+		</locations>
+	</storage>
+
+	<steam>
+	</steam>
+</item>
